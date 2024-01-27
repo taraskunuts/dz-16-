@@ -1,0 +1,19 @@
+body{
+    background-color: green;
+}
+
+.bg-box{
+    max-width: 700px;
+    min-height: 500px;  
+    background-image: 
+    url("./img/pole-zelen-trava-dom-derevya.jpg"), 
+    url("./img/ishak.webp"), 
+    url("./img/green-png-44873.png"),
+    url("./img/ponchik.png"),
+    url("./img/lamp-png-34914.png");
+    background-size: 400px, 50px, 150px,50px,74px;
+    background-position: 50% 50%, left top, left bottom, right bottom,right top ;   
+background-repeat: no-repeat, repeat-y, repeat-x, repeat-y , repeat-x;
+}
+
+ 
